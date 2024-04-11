@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Middlewarer
+@Middlewarer
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning Django % REST API
 - 💞️ I’m looking to collaborate on whatever
