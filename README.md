@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **django**
 
-- 📫 How to reach me **Telegram: https://t.me/letgoofeverythin**
+- 📫 How to reach me **Telegram: https://t.me/Middlewarer**
 
 - 📄 Know about my experiences [https://disk.yandex.ru/i/ogaNccPvdM6SpA](https://disk.yandex.ru/i/ogaNccPvdM6SpA)
 
