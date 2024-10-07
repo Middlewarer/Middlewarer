@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Middlewarer</h1>
 <h3 align="center">A passionate backend developer from Moldova</h3>
 
-- 🔭 I’m currently working on [Ticketing system app](https://github.com/Middlewarer/ticketsystem)
+- 🔭 I’m currently working on [CRM System in Django](https://github.com/Middlewarer/tracker)
 
 - 🌱 I’m currently learning **Frameworks like Django, Flask..**
 
