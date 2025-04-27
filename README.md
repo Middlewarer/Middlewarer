@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Middlewarer</h1>
-<h3 align="center">A passionate backend developer from Moldova</h3>
+<h1 align="center">I'm Middlewarer</h1>
+<h3 align="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working on [CRM System in Django](https://github.com/Middlewarer/tracker)
+- 🔭 I’m currently working on returning my django prime
 
-- 🌱 I’m currently learning **Frameworks like Django, Flask..**
+- 🌱 I’m currently learning everything
 
-- 🤝 I’m looking for help with [Ticketing system app](https://github.com/Middlewarer/ticketsystem)
+- 🤝 I’m looking for help with finding a job
 
-- 💬 Ask me about **django**
+- 💬 Ask me about anything and critisize me if something is wrong
 
 - 📫 How to reach me **Telegram: https://t.me/Middlewarer**
-
-- 📄 Know about my experiences [https://disk.yandex.ru/i/ogaNccPvdM6SpA](https://disk.yandex.ru/i/ogaNccPvdM6SpA)
 
 <h3 align="left">If you want to contact me: </h3>
 <p align="left">
