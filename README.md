@@ -119,5 +119,6 @@ Python · Django · Django REST Framework · PostgreSQL
 
 Открыт к предложениям по backend-разработке на Python. Готов обсудить устройство проектов и показать реализованные сценарии.
 
-**Email:** [algrabchukex@gmail.com](mailto:algrabchukex@gmail.com) algrabchukex@gmail.com
+**Email:** [algrabchukex@gmail.com](mailto:algrabchukex@gmail.com)
 **Telegram:** [@Middlewarer](https://t.me/Middlewarer)
+**Phone:** +7 961 007 9773
